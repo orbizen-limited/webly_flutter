@@ -1,4 +1,4 @@
-package com.mighty.web
+package com.appsfrica.fricaai
 
 import android.content.BroadcastReceiver
 import android.os.Bundle

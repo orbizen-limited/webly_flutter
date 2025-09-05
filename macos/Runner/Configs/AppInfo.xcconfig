@@ -8,7 +8,7 @@
 PRODUCT_NAME = webly_flutter
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.mighty.weblyFlutter
+PRODUCT_BUNDLE_IDENTIFIER = com.appsfrica.fricaailyFlutter
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2021 com.mighty. All rights reserved.

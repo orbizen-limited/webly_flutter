@@ -1,4 +1,4 @@
-package com.mighty.web
+package com.appsfrica.fricaai
 
 import android.app.Notification
 import android.app.NotificationChannel
@@ -54,7 +54,7 @@ class AudioService : Service(), LifecycleObserver {
             manager.createNotificationChannel(notificationChannel)
         }
 
-        val launchIntent = packageManager.getLaunchIntentForPackage("com.mighty.web")
+        val launchIntent = packageManager.getLaunchIntentForPackage("com.appsfrica.fricaai")
         if (launchIntent == null) {
             return
         }

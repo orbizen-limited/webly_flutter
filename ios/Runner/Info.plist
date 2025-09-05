@@ -28,7 +28,7 @@
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
 			<key>CFBundleURLName</key>
-			<string>com.mighty.web</string>
+			<string>com.appsfrica.fricaai</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>mightyweb</string>

@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.mighty.web">
+    package="com.appsfrica.fricaai">
 
     <queries>
         <intent>
@@ -48,7 +48,7 @@
             android:value="ca-app-pub-3940256099942544~3347511713" />
 
         <activity
-            android:name="com.mighty.web.MainActivity"
+            android:name="com.appsfrica.fricaai.MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
             android:exported="true"
             android:hardwareAccelerated="true"
@@ -99,7 +99,7 @@
             android:value="false"/>
 
         <service
-            android:name="com.mighty.web.AudioService"
+            android:name="com.appsfrica.fricaai.AudioService"
             android:enabled="true"
             android:foregroundServiceType="mediaPlayback"
             android:exported="false" />
