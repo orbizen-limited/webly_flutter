@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "391229839989",
+    "project_id": "frica-ai-app",
+    "storage_bucket": "frica-ai-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391229839989:android:90c6cca83f16a06390f63c",
+        "android_client_info": {
+          "package_name": "com.appsfrica.fricaai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoo-dtbc-1T7DPDpycU_cbu4GI6mLO5SU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
